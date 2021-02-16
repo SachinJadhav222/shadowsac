@@ -1,0 +1,19 @@
+{
+  "name": "shadowsac",
+  "version": "1.0.1",
+  "description": "design for js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SachinJadhav222/shadowsac.git"
+  },
+  "author": "Sachin Jadhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SachinJadhav222/shadowsac/issues"
+  },
+  "homepage": "https://github.com/SachinJadhav222/shadowsac#readme"
+}

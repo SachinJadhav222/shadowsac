@@ -17,4 +17,11 @@ function shadowsac(options){
 
 }
 
+// function myHeading(){
+//     const myHeading= 'Shadow Sac Demo Package'
+//     return myHeading
+// }
+
+module.exports.myHeading='Shadow Sac Demo Package';
+
 module.exports.shadowsac=shadowsac;
